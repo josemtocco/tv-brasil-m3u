@@ -1,0 +1,51 @@
+name: Atualizar playlist M3U
+
+on:
+  workflow_dispatch:
+    inputs:
+      check_streams:
+        description: "Testar disponibilidade dos streams"
+        required: false
+        default: true
+        type: boolean
+  push:
+    paths:
+      - "fontes.json"
+      - "filtros.json"
+      - "gerar_m3u.py"
+      - ".github/workflows/gerar-m3u.yml"
+  schedule:
+    - cron: "23 8 * * *"
+      timezone: "America/Sao_Paulo"
+
+permissions:
+  contents: write
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+
+      - name: Gerar e verificar
+        run: |
+          if [ "${{ github.event.inputs.check_streams }}" = "false" ]; then
+            python gerar_m3u.py
+          else
+            python gerar_m3u.py --check-streams --workers 12
+          fi
+
+      - name: Commitar playlist e status
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tv-brasil.m3u status.json
+          git diff --cached --quiet || git commit -m "Atualizar playlist M3U"
+          git push
