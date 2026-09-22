@@ -1,0 +1,12 @@
+{
+  "allowed_countries": ["BR", "BRA", "Brasil", "Brazil"],
+  "brazil_keywords": [
+    "brasil", "brazil", "br", "globo", "sbt", "record",
+    "band", "cultura", "tv brasil", "tv camara", "tv senado",
+    "tv assembleia", "rede tv", "gazeta", "canal gov"
+  ],
+  "blocked_keywords": [
+    "adult", "xxx", "porn"
+  ],
+  "default_group": "TV Brasil"
+}

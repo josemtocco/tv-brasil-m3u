@@ -1,0 +1,9 @@
+[
+  {
+    "name": "COLOQUE_AQUI_UMA_FONTE_M3U_AUTORIZADA",
+    "url": "https://exemplo.com/sua-lista.m3u",
+    "format": "m3u",
+    "enabled": false,
+    "brazil_only": true
+  }
+]
