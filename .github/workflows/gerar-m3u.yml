@@ -8,15 +8,16 @@ on:
         required: false
         default: true
         type: boolean
+
   push:
     paths:
       - "fontes.json"
       - "filtros.json"
       - "gerar_m3u.py"
       - ".github/workflows/gerar-m3u.yml"
+
   schedule:
-    - cron: "23 8 * * *"
-      timezone: "America/Sao_Paulo"
+    - cron: "23 11 * * *"
 
 permissions:
   contents: write
@@ -26,15 +27,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Checkout
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
-      - name: Python
+      - name: Configurar Python
         uses: actions/setup-python@v6
         with:
           python-version: "3.x"
 
       - name: Gerar e verificar
+        shell: bash
         run: |
           if [ "${{ github.event.inputs.check_streams }}" = "false" ]; then
             python gerar_m3u.py
@@ -42,20 +47,21 @@ jobs:
             python gerar_m3u.py --check-streams --workers 12
           fi
 
-    - name: Commitar playlist e status
-  run: |
-    git config user.name "github-actions[bot]"
-    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Commitar playlist e status
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-    git add tv-brasil.m3u status.json
+          git fetch origin main
+          git rebase origin/main
 
-    if git diff --cached --quiet; then
-      echo "Nenhuma alteração para publicar."
-      exit 0
-    fi
+          git add tv-brasil.m3u status.json
 
-    git commit -m "Atualizar playlist M3U"
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração para publicar."
+            exit 0
+          fi
 
-    git pull --rebase origin main
-
-    git push origin HEAD:main
+          git commit -m "Atualizar playlist M3U"
+          git push origin HEAD:main
