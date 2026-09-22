@@ -5,12 +5,5 @@
     "format": "m3u",
     "enabled": true,
     "brazil_only": false
-  },
-  {
-    "name": "Samsung TV Plus",
-    "url": "https://www.apsattv.com/ssungbra.m3u",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": false
-  },
+  }
   ]
