@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-23T16:05:08Z",
+  "generated_at_utc": "2026-09-23T18:07:05Z",
   "sources": [
     {
       "source": "IPTV-ORG Brasil",
@@ -70,10 +70,15 @@
       "source": "WIPTV BR",
       "downloaded": 100,
       "error": null
+    },
+    {
+      "source": "Plex Brasil - somente PT-BR",
+      "downloaded": 13,
+      "error": null
     }
   ],
-  "channels_before_deduplication": 1036,
-  "channels_output": 1036,
-  "streams_checked": 1254,
-  "streams_online": 1036
+  "channels_before_deduplication": 1039,
+  "channels_output": 1039,
+  "streams_checked": 1267,
+  "streams_online": 1039
 }
