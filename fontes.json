@@ -5,5 +5,54 @@
     "format": "m3u",
     "enabled": true,
     "brazil_only": false
+  },
+  {
+    "name": "IPTV-com Brasil",
+    "url": "https://github.com/iptv-com/iptv/raw/refs/heads/main/lists/brazil.m3u",
+    "format": "m3u",
+    "enabled": true,
+    "brazil_only": false
+  },
+  {
+    "name": "IPTV-ORG Rio Grande do Sul",
+    "url": "https://iptv-org.github.io/iptv/subdivisions/br-rs.m3u",
+    "format": "m3u",
+    "enabled": true,
+    "brazil_only": false
+  },
+  {
+    "name": "IPTV-ORG Sao Paulo",
+    "url": "https://iptv-org.github.io/iptv/subdivisions/br-sp.m3u",
+    "format": "m3u",
+    "enabled": true,
+    "brazil_only": false
+  },
+  {
+    "name": "IPTV-ORG Rio de Janeiro",
+    "url": "https://iptv-org.github.io/iptv/subdivisions/br-rj.m3u",
+    "format": "m3u",
+    "enabled": true,
+    "brazil_only": false
+  },
+  {
+    "name": "IPTV-ORG Parana",
+    "url": "https://iptv-org.github.io/iptv/subdivisions/br-pr.m3u",
+    "format": "m3u",
+    "enabled": true,
+    "brazil_only": false
+  },
+  {
+    "name": "FTA IPTV Brasil",
+    "url": "https://raw.githubusercontent.com/joaoguidugli/FTA-IPTV-Brasil/master/playlist.m3u8",
+    "format": "m3u",
+    "enabled": false,
+    "brazil_only": true
+  },
+  {
+    "name": "IPTV Restream Brasil",
+    "url": "https://raw.githubusercontent.com/freearhey/iptv/master/channels/br.m3u",
+    "format": "m3u",
+    "enabled": false,
+    "brazil_only": true
   }
-  ]
+]
