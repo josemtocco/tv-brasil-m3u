@@ -110,6 +110,13 @@ def blocked(ch, cfg):
     text = " ".join([ch.get("name", ""), ch.get("group", "")]).lower()
     return any(k.lower() in text for k in cfg["blocked_keywords"])
 
+def matches_include_names(ch, src):
+    names = src.get("include_names")
+    if not names:
+        return True
+    wanted = {clean(x).casefold() for x in names if clean(x)}
+    return clean(ch.get("name")).casefold() in wanted
+
 def check_url(item, timeout=10):
     url = item["url"]
     try:
@@ -158,7 +165,9 @@ def main():
             raw = fetch(src["url"])
             parsed = parse_json(raw) if src.get("format") == "json" else parse_m3u(raw)
             parsed = [normalize(x, src["name"]) for x in parsed]
-            if src.get("brazil_only", True):
+            if src.get("include_names"):
+                parsed = [x for x in parsed if matches_include_names(x, src)]
+            elif src.get("brazil_only", True):
                 parsed = [x for x in parsed if looks_brazilian(x, cfg)]
             parsed = [x for x in parsed if x.get("enabled", True) and valid_url(x.get("url")) and not blocked(x, cfg)]
             channels.extend(parsed)
