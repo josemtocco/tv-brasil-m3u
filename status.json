@@ -1,114 +1,79 @@
-[
-  {
-    "name": "IPTV-ORG Brasil",
-    "url": "https://iptv-org.github.io/iptv/countries/br.m3u",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": false
-  },
-  {
-    "name": "IPTV-com Brasil",
-    "url": "https://github.com/iptv-com/iptv/raw/refs/heads/main/lists/brazil.m3u",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": false
-  },
-  {
-    "name": "IPTV-ORG Rio Grande do Sul",
-    "url": "https://iptv-org.github.io/iptv/subdivisions/br-rs.m3u",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": false
-  },
-  {
-    "name": "IPTV-ORG Sao Paulo",
-    "url": "https://iptv-org.github.io/iptv/subdivisions/br-sp.m3u",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": false
-  },
-  {
-    "name": "IPTV-ORG Rio de Janeiro",
-    "url": "https://iptv-org.github.io/iptv/subdivisions/br-rj.m3u",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": false
-  },
-  {
-    "name": "IPTV-ORG Parana",
-    "url": "https://iptv-org.github.io/iptv/subdivisions/br-pr.m3u",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": false
-  },
-  {
-    "name": "FTA IPTV Brasil",
-    "url": "https://raw.githubusercontent.com/joaoguidugli/FTA-IPTV-Brasil/master/playlist.m3u8",
-    "format": "m3u",
-    "enabled": false,
-    "brazil_only": true
-  },
-  {
-    "name": "IPTV Restream Brasil",
-    "url": "https://raw.githubusercontent.com/freearhey/iptv/master/channels/br.m3u",
-    "format": "m3u",
-    "enabled": false,
-    "brazil_only": true
-  },
-  {
-    "name": "Apsattv MovieArk Brasil",
-    "url": "https://www.apsattv.com/moviearkbr.m3u",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": true
-  },
-  {
-    "name": "Apsattv Rede iTV",
-    "url": "https://www.apsattv.com/redeitv.m3u",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": true
-  },
-  {
-    "name": "Apsattv TCL Brasil",
-    "url": "https://www.apsattv.com/tclbr.m3u",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": true
-  },
-  {
-    "name": "Apsattv Samsung Brasil",
-    "url": "https://www.apsattv.com/ssungbra.m3u",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": true
-  },
-  {
-    "name": "TVBoxLivre",
-    "url": "http://bit.ly/TVBoxLivre",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": true
-  },
-  {
-    "name": "Apsattv Olhos na TV",
-    "url": "https://www.apsattv.com/olhosnatv.m3u",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": true
-  },
-  {
-    "name": "IPTV Novas",
-    "url": "http://bit.ly/IPTVNovas",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": true
-  },
-  {
-    "name": "WIPTV BR",
-    "url": "http://bit.ly/WIPTVBR",
-    "format": "m3u",
-    "enabled": true,
-    "brazil_only": true
-  }
-]
+{
+  "generated_at_utc": "2026-09-23T16:05:08Z",
+  "sources": [
+    {
+      "source": "IPTV-ORG Brasil",
+      "downloaded": 387,
+      "error": null
+    },
+    {
+      "source": "IPTV-com Brasil",
+      "downloaded": 22,
+      "error": null
+    },
+    {
+      "source": "IPTV-ORG Rio Grande do Sul",
+      "downloaded": 4,
+      "error": null
+    },
+    {
+      "source": "IPTV-ORG Sao Paulo",
+      "downloaded": 16,
+      "error": null
+    },
+    {
+      "source": "IPTV-ORG Rio de Janeiro",
+      "downloaded": 7,
+      "error": null
+    },
+    {
+      "source": "IPTV-ORG Parana",
+      "downloaded": 3,
+      "error": null
+    },
+    {
+      "source": "Apsattv MovieArk Brasil",
+      "downloaded": 164,
+      "error": null
+    },
+    {
+      "source": "Apsattv Rede iTV",
+      "downloaded": 43,
+      "error": null
+    },
+    {
+      "source": "Apsattv TCL Brasil",
+      "downloaded": 105,
+      "error": null
+    },
+    {
+      "source": "Apsattv Samsung Brasil",
+      "downloaded": 157,
+      "error": null
+    },
+    {
+      "source": "TVBoxLivre",
+      "downloaded": 36,
+      "error": null
+    },
+    {
+      "source": "Apsattv Olhos na TV",
+      "downloaded": 35,
+      "error": null
+    },
+    {
+      "source": "IPTV Novas",
+      "downloaded": 513,
+      "error": null
+    },
+    {
+      "source": "WIPTV BR",
+      "downloaded": 100,
+      "error": null
+    }
+  ],
+  "channels_before_deduplication": 1036,
+  "channels_output": 1036,
+  "streams_checked": 1254,
+  "streams_online": 1036
+}
