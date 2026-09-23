@@ -54,5 +54,61 @@
     "format": "m3u",
     "enabled": false,
     "brazil_only": true
+  },
+  {
+    "name": "Apsattv MovieArk Brasil",
+    "url": "https://www.apsattv.com/moviearkbr.m3u",
+    "format": "m3u",
+    "enabled": true,
+    "brazil_only": true
+  },
+  {
+    "name": "Apsattv Rede iTV",
+    "url": "https://www.apsattv.com/redeitv.m3u",
+    "format": "m3u",
+    "enabled": true,
+    "brazil_only": true
+  },
+  {
+    "name": "Apsattv TCL Brasil",
+    "url": "https://www.apsattv.com/tclbr.m3u",
+    "format": "m3u",
+    "enabled": true,
+    "brazil_only": true
+  },
+  {
+    "name": "Apsattv Samsung Brasil",
+    "url": "https://www.apsattv.com/ssungbra.m3u",
+    "format": "m3u",
+    "enabled": true,
+    "brazil_only": true
+  },
+  {
+    "name": "TVBoxLivre",
+    "url": "http://bit.ly/TVBoxLivre",
+    "format": "m3u",
+    "enabled": true,
+    "brazil_only": true
+  },
+  {
+    "name": "Apsattv Olhos na TV",
+    "url": "https://www.apsattv.com/olhosnatv.m3u",
+    "format": "m3u",
+    "enabled": true,
+    "brazil_only": true
+  },
+  {
+    "name": "IPTV Novas",
+    "url": "http://bit.ly/IPTVNovas",
+    "format": "m3u",
+    "enabled": true,
+    "brazil_only": true
+  },
+  {
+    "name": "WIPTV BR",
+    "url": "http://bit.ly/WIPTVBR",
+    "format": "m3u",
+    "enabled": true,
+    "brazil_only": true
   }
 ]
