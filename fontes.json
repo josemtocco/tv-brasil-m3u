@@ -110,5 +110,27 @@
     "format": "m3u",
     "enabled": true,
     "brazil_only": true
+  },
+  {
+    "name": "Plex Brasil - somente PT-BR",
+    "url": "https://raw.githubusercontent.com/BuddyChewChew/plex-alt-fast-channels/refs/heads/main/playlists/plex_br.m3u",
+    "format": "m3u",
+    "enabled": true,
+    "brazil_only": false,
+    "include_names": [
+      "Crime e Investigação",
+      "CinEspanto",
+      "Euronews Portuguese",
+      "MasterChef Brasil",
+      "Racer Brasil",
+      "Runtime",
+      "Runtime Ação",
+      "Runtime Comédia",
+      "Runtime Crime",
+      "Runtime Família",
+      "Runtime Romance",
+      "Sessão Trash",
+      "Sobrevivi"
+    ]
   }
 ]
