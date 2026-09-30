@@ -39,8 +39,6 @@ https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
 https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
 #EXTINF:-1 tvg-name="South Park: Colecao Stan" group-title="Animation;Comedy" tvg-id="SouthParkColecaoStan.us@BR" tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png",South Park: Colecao Stan
 https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
-#EXTINF:-1 tvg-name="NickOnline Bob Esponja (720p) [Not 24/7]" group-title="Animation;Kids" tvg-id="NickOnlineBobEsponja.br@HD" tvg-logo="https://x1colegal.com/nickonlinebobesponja.png",NickOnline Bob Esponja (720p) [Not 24/7]
-https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="NickOnline HD (720p)" group-title="Animation;Kids" tvg-id="NickOnline.br@HD" tvg-logo="https://x1colegal.com/logo.png",NickOnline HD (720p)
 https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="NickToons Brasil (480p)" group-title="Animation;Kids" tvg-id="NickToonsBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png",NickToons Brasil (480p)
@@ -284,9 +282,9 @@ https://video01.logicahost.com.br/raetv/raetv/playlist.m3u8
 #EXTINF:-1 tvg-name="RBTI" group-title="BRASIL" tvg-logo="https://imgur.com/vQFAb0Y.png",RBTI
 https://cdn-5.nxplay.com.br/RBTi_MAIS_TV/tracks-v1a1/mono.m3u8?token=abc4c3cbedbbf7ba1c291b634885ddcae5100066-70d372a2bccdfcf7386c2385a45c1cd7-1731305419-1731262219
 #EXTINF:-1 tvg-name="RBTV" group-title="BRASIL" tvg-logo="https://imgur.com/ATA37nb.png",RBTV
-https://redebrasileira.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="RBTV" group-title="BRASIL" tvg-logo="https://imgur.com/ATA37nb.png",RBTV
 https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-name="RBTV" group-title="BRASIL" tvg-logo="https://imgur.com/ATA37nb.png",RBTV
+https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="RECORD TV AMPLITUDE JUARA" group-title="BRASIL" tvg-logo="https://imgur.com/OAIb1KK.png",RECORD TV AMPLITUDE JUARA
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-name="RECORD TV AMPLITUDE JUINA" group-title="BRASIL" tvg-logo="https://imgur.com/OAIb1KK.png",RECORD TV AMPLITUDE JUINA
@@ -295,6 +293,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u
 https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-name="REDE MAIS FAMILIA" group-title="BRASIL" tvg-logo="https://imgur.com/1ew3DwY.png",REDE MAIS FAMILIA
 https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+#EXTINF:-1 tvg-name="REDE METROPOLITANA" group-title="BRASIL" tvg-logo="https://imgur.com/fP74ULx.png",REDE METROPOLITANA
+https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
 #EXTINF:-1 tvg-name="REDE PREMIUM TV" group-title="BRASIL" tvg-logo="https://imgur.com/NOM0NvO.png",REDE PREMIUM TV
 https://stmv2.samcast.com.br/leonardo9878/leonardo9878/playlist.m3u8
 #EXTINF:-1 tvg-name="REDE QDM" group-title="BRASIL" tvg-logo="https://imgur.com/016V7Qg.png",REDE QDM
@@ -321,6 +321,8 @@ https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTP NOTICIAS" group-title="BRASIL" tvg-logo="https://imgur.com/7GpSzxR.png",RTP NOTICIAS
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-name="SABOR E ARTE 2" group-title="BRASIL" tvg-logo="https://imgur.com/VKkajA6.png",SABOR E ARTE 2
+https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="SBT NEWS" group-title="BRASIL" tvg-logo="https://imgur.com/35DF4Ue.png",SBT NEWS
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
 #EXTINF:-1 tvg-name="SERIES CLASSIC" group-title="BRASIL" tvg-logo="https://imgur.com/DXHLIcK.png",SERIES CLASSIC
@@ -401,10 +403,14 @@ https://video08.logicahost.com.br/tvcariris/tvcariris/playlist.m3u8
 https://stmv5.samcast.com.br/severino9163/severino9163/playlist.m3u8
 #EXTINF:-1 tvg-name="TV CENTRAL DO BRASIL" group-title="BRASIL" tvg-logo="https://imgur.com/7zr5w0A.png",TV CENTRAL DO BRASIL
 https://stmv2.centralcast.com.br/central/central/playlist.m3u8
+#EXTINF:-1 tvg-name="TV CERRADO" group-title="BRASIL" tvg-logo="https://imgur.com/xtOygFi.png",TV CERRADO
+https://s1.tvr.ovh/video30203/video30203/playlist.m3u8
 #EXTINF:-1 tvg-name="TV CHICO JOAO" group-title="BRASIL" tvg-logo="https://imgur.com/QeVkrXZ.png",TV CHICO JOAO
 https://stmv1.liveplushd.com.br/tvchicojoao/tvchicojoao/playlist.m3u8
 #EXTINF:-1 tvg-name="TV CIDADA" group-title="BRASIL" tvg-logo="https://imgur.com/PK3JLkS.png",TV CIDADA
 https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
+#EXTINF:-1 tvg-name="TV CIDADE 10" group-title="BRASIL" tvg-logo="https://imgur.com/9fgnV62.png",TV CIDADE 10
+https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
 #EXTINF:-1 tvg-name="TV CIDADE BAHIA" group-title="BRASIL" tvg-logo="https://imgur.com/hoV7Hmg.png",TV CIDADE BAHIA
 https://cdn.live.br1.jmvstream.com/webtv/ifulrbjz/playlist/playlist.m3u8
 #EXTINF:-1 tvg-name="TV CIDADE VERDE" group-title="BRASIL" tvg-logo="https://imgur.com/5jEsAql.png",TV CIDADE VERDE
@@ -429,8 +435,6 @@ https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 https://video03.logicahost.com.br/pascoal/pascoal/playlist.m3u8
 #EXTINF:-1 tvg-name="TV DIARIO DO SERTAO" group-title="BRASIL" tvg-logo="https://imgur.com/3Kee3Pu.png",TV DIARIO DO SERTAO
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
-#EXTINF:-1 tvg-name="TV DIFUSAO" group-title="BRASIL" tvg-logo="https://imgur.com/Tgghe8k.png",TV DIFUSAO
-https://tvditv.acessaradios.com.br/tvditv/tvditv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TV DIGITAL BIRIGUI" group-title="BRASIL" tvg-logo="https://imgur.com/m6RDJBZ.png",TV DIGITAL BIRIGUI
 https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
 #EXTINF:-1 tvg-name="TV DO POVO" group-title="BRASIL" tvg-logo="https://imgur.com/Pv95YP8.png",TV DO POVO
@@ -447,6 +451,8 @@ https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
 https://srv6.zcast.com.br:1443/hls/tvfloridausa.m3u8
 #EXTINF:-1 tvg-name="TV FLOW" group-title="BRASIL" tvg-logo="https://imgur.com/rPgGYH8.png",TV FLOW
 https://gpf-tvfl-samsungtvplus-br.otteravision.com/gpf/tvfl/tvfl_h265.m3u8
+#EXTINF:-1 tvg-name="TV FORUM" group-title="BRASIL" tvg-logo="https://imgur.com/p31XXZU.png",TV FORUM
+https://video03.logicahost.com.br/forum02/forum02/playlist.m3u8
 #EXTINF:-1 tvg-name="TV FUTURO" group-title="BRASIL" tvg-logo="https://imgur.com/QAvFgEX.png",TV FUTURO
 https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-name="TV GALEGA" group-title="BRASIL" tvg-logo="https://imgur.com/fmGNohE.png",TV GALEGA
@@ -849,18 +855,12 @@ https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Alternativa (410p)" group-title="General" tvg-id="TVAlternativa.br@SD" tvg-logo="https://i.imgur.com/wM9xXhc.png",TV Alternativa (410p)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Arapuan (720p)" group-title="General" tvg-id="TVArapuan.br@SD" tvg-logo="https://i.imgur.com/3395A2h.png",TV Arapuan (720p)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TV BRICS Portuguese (1080p)" group-title="General" tvg-id="TVBRICSPortuguese.br@SD" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Portuguese (1080p)
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Comunitaria (360p)" group-title="General" tvg-id="TVComunitaria.br@SD" tvg-logo="https://i.imgur.com/uxefHY3.png",TV Comunitaria (360p)
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-name="TV Difusao (720p)" group-title="General" tvg-id="TVDifusao.br@SD" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px_doiivZN.png",TV Difusao (720p)
-https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Futuro (1080p)" group-title="General" tvg-id="TVFuturo.br@SD" tvg-logo="https://i.imgur.com/xonrNBf.png",TV Futuro (1080p)
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Litoral RN (720p)" group-title="General" tvg-id="TVLitoralRN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg",TV Litoral RN (720p)
-https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mais Marica (1080p)" group-title="General" tvg-id="TVMaisMarica.br@SD" tvg-logo="https://i.imgur.com/lgCRX7q.png",TV Mais Marica (1080p)
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Marajoara (720p)" group-title="General" tvg-id="TVMarajoara.br@SD" tvg-logo="https://i.imgur.com/9d9vBN7.png",TV Marajoara (720p)
@@ -901,8 +901,6 @@ http://video.sinoinformatica.com.br:1935/cmtupa-live/sessaoaovivo/chunklist_w111
 https://w1.manasat.com:443/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Avatar: A lenda de Aang" group-title="Kids" tvg-id="AvatarAlendadeAang.us@BR" tvg-logo="https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png",Avatar: A lenda de Aang
 https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
-#EXTINF:-1 tvg-name="BabyFirst Brazil" group-title="Kids" tvg-id="BabyFirst.us@Brazil" tvg-logo="https://i.imgur.com/WxLHBwu.png",BabyFirst Brazil
-https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
 #EXTINF:-1 tvg-name="Bob Esponja Calca Quadrada (720p)" group-title="Kids" tvg-id="BobEsponjaCalcaQuadrada.us@BR" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png",Bob Esponja Calca Quadrada (720p)
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:-1 tvg-name="Box Kids TV (720p)" group-title="Kids" tvg-id="BoxKidsTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png",Box Kids TV (720p)
@@ -937,8 +935,6 @@ https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
 http://45.177.114.115/TV_BRASIL_2/index.m3u8
 #EXTINF:-1 tvg-name="TV Assembleia Piaui" group-title="Legislative" tvg-id="TVAssembleiaPiaui.br@SD" tvg-logo="https://i.imgur.com/eMguSjM.png",TV Assembleia Piaui
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Camara (Brazil) (1080p)" group-title="Legislative" tvg-id="TVCamara.br@SD" tvg-logo="https://i.imgur.com/Sdou1Ab.png",TV Camara (Brazil) (1080p)
-https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Cozinha" group-title="Lifestyle" tvg-id="PlutoTVCozinha.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png",Pluto TV Cozinha
 https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Viagens" group-title="Lifestyle" tvg-id="PlutoTVViagens.us@BR" tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png",Pluto TV Viagens
@@ -1003,8 +999,6 @@ https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 #EXTINF:-1 tvg-name="Music Box Brazil (720p)" group-title="Music" tvg-id="MusicBoxBrazil.br@SD" tvg-logo="https://i.imgur.com/CDPCF2X.png",Music Box Brazil (720p)
 http://168.197.104.22/MUSIC/index.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Karaoke por Stingray (720p)" group-title="Music" tvg-id="PlutoTVKaraokeporStingray.us@BR" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",Pluto TV Karaoke por Stingray (720p)
-https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Shows por Stingray (720p)" group-title="Music" tvg-id="PlutoTVShowsporStingray.us@BR" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png",Pluto TV Shows por Stingray (720p)
 https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
 #EXTINF:-1 tvg-name="TikTok Radio Brasil (1080p)" group-title="Music" tvg-id="TikTokRadioBrasil.br@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg",TikTok Radio Brasil (1080p)
@@ -1037,14 +1031,14 @@ http://45.162.64.114/RECORD_NEWS/index.m3u8
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 tvg-name="TCM 10 HD (1080p)" group-title="News" tvg-id="TCM10HD.br@SD" tvg-logo="https://i.imgur.com/aMuMVvB.png",TCM 10 HD (1080p)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:-1 tvg-name="Times Brasil (720p)" group-title="News" tvg-id="TimesBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png",Times Brasil (720p)
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 tvg-name="TV A Folha (720p)" group-title="News" tvg-id="TVAFolha.br@SD" tvg-logo="https://i.imgur.com/I7XGMhj.png",TV A Folha (720p)
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Brusque (720p)" group-title="News" tvg-id="TVBrusque.br@SD" tvg-logo="https://i.imgur.com/J2EAZPS.png",TV Brusque (720p)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Sim Cachoeiro (720p)" group-title="News" tvg-id="TVSimCachoeiro.br@SD" tvg-logo="https://i.imgur.com/t5oUK3C.png",TV Sim Cachoeiro (720p)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Sim Sao Mateus (720p)" group-title="News" tvg-id="TVSimSaoMateus.br@SD" tvg-logo="https://i.imgur.com/t5oUK3C.png",TV Sim Sao Mateus (720p)
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-name="TVideoNews (720p) [Not 24/7]" group-title="News" tvg-id="TVideoNews.br@SD" tvg-logo="https://i.imgur.com/vstHOYx.png",TVideoNews (720p) [Not 24/7]
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 tvg-name="VEJA+ TV (1080p)" group-title="News" tvg-id="VEJAPlusTV.br@HD" tvg-logo="https://i.imgur.com/n0pxHo4.png",VEJA+ TV (1080p)
@@ -1139,6 +1133,8 @@ https://webradio.amsolution.com.br/radio/8380/live
 http://wz5.dnip.com.br/asabranca128k/asabranca128k.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Rádio Bandeirantes Goiânia" group-title="Rádios" tvg-logo="https://i.imgur.com/FktWIvK.png",Rádio Bandeirantes Goiânia
 http://suaradio2.dyndns.ws:13633/stream
+#EXTINF:-1 tvg-name="Rádio Eldorado" group-title="Rádios" tvg-id="Radioeldorado.br" tvg-logo="https://i.imgur.com/TKZ90g5.png",Rádio Eldorado
+http://cast4.audiostream.com.br:8652/mp3
 #EXTINF:-1 tvg-name="Rádio Itatiaia" group-title="Rádios" tvg-id="Itatiaiaamfm.br" tvg-logo="https://i.imgur.com/qpuarr6.png",Rádio Itatiaia
 https://8903.brasilstream.com.br/stream
 #EXTINF:-1 tvg-name="Super Rádio Tupi" group-title="Rádios" tvg-id="SuperRadioTupi.br" tvg-logo="https://i.imgur.com/piuWrsL.png",Super Rádio Tupi
@@ -1211,6 +1207,8 @@ https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Esportes" group-title="Sports" tvg-id="PlutoTVEsportes.us@BR" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg",Pluto TV Esportes
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
+#EXTINF:-1 tvg-name="SporTV (1080p)" group-title="Sports" tvg-id="SporTV.br@SD" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png",SporTV (1080p)
+http://195.178.110.110/sportv/index.m3u8
 #EXTINF:-1 tvg-name="CHARMED JOVENS BRUXAS" group-title="Séries" tvg-logo="https://imgur.com/qzSmVKN.png",CHARMED JOVENS BRUXAS
 https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
 #EXTINF:-1 tvg-name="Travel Box Brazil (720p)" group-title="Travel" tvg-id="TravelBoxBrazil.br@SD" tvg-logo="https://i.imgur.com/3tBJERH.png",Travel Box Brazil (720p)
@@ -1295,6 +1293,8 @@ https://cis-no-tcl-roku-syndication.otteravision.com/cis/no/no_h265.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4012
 #EXTINF:-1 tvg-name="1076 Stingray Music Hot Country" group-title="TV Brasil",1076 Stingray Music Hot Country
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4016
+#EXTINF:-1 tvg-name="10775 Sabor Arte 2 (BR)" group-title="TV Brasil",10775 Sabor Arte 2 (BR)
+https://amg01391-sbtinfast-amg01391c6-tcl-us-5081.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="1082 Stingray Music Greatest Hits" group-title="TV Brasil",1082 Stingray Music Greatest Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4009
 #EXTINF:-1 tvg-name="1088 Watch Mojo (BR)" group-title="TV Brasil",1088 Watch Mojo (BR)
@@ -1655,6 +1655,8 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/12b1b2de9b3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11768
 #EXTINF:-1 tvg-name="Canal Rural" group-title="TV Brasil",Canal Rural
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/286759c5e64a42b5bd52821718c3f558/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal UOL" group-title="TV Brasil",Canal UOL
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fab45528fa125f7b2d55927/playlist.m3u8
 #EXTINF:-1 tvg-name="Caras tv" group-title="TV Brasil",Caras tv
 https://playout-amg27041c1p1.playout.now3.amagi.tv/amg27041/amg27041c1/playlist.m3u8?dnt={{DNT}}&app_bundle={{appPackage}}&app_name={{appName}}&app_store_url={{AppStoreUrl}}&network_name=tinykernel&did={{DID}}&device_make={{DeviceMake}}&device_model={{DeviceModel}}&gdpr={{Gdpr}}&us_privacy={{UsPrivacy}}&GdprConsent={{GdprConsent}}&app_domain={{AppDomain}}&coppa={{Coppa}}&app_version={{AppVersion}}&app_cat={{AppCat}}&ifa_type={{IFA_TYPE}}
 #EXTINF:-1 tvg-name="CazéTV" group-title="TV Brasil",CazéTV
@@ -1807,20 +1809,20 @@ https://amg00740-sofa-amg00740c22-tcl-br-9741.playouts.now.amagi.tv/playlist.m3u
 https://api-ott-adnet-oan.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=14&platform=roku&partner=tcl_roku_syndication&language=any&avod=1&app_name={{appName}}&app_bundle={{appPackage}}&device_width={{playerWidth}}&device_height={{playerHeight}}&ip={{ipAddr}}&tld={{AppDomain}}&content_cat={{AppCat}}&app_version={{AppVersion}}&app_store_url={{AppStoreUrl}}&ua={{UserAgent}}&did={{DID}}&dnt={{DNT}}&coppa={{Coppa}}&us_privacy={{UsPrivacy}}&gdpr={{Gdpr}}&cb={{cb}}&device_make={{DeviceMake}}&device_model={{DeviceModel}}&device_os_version={{operatingSystem}}&livestream={{LiveStream}}&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=tcl_roku_syndication&custom_param_5=roku&GdprConsent={{GdprConsent}}
 #EXTINF:-1 tvg-name="RACER Brasil" group-title="TV Brasil",RACER Brasil
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist/amg16379-sports7fast-mavtvbrasil-tclus/playlist.m3u8
-#EXTINF:-1 tvg-name="Real Madrid TV via Pluto" group-title="TV Brasil",Real Madrid TV via Pluto
-https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 #EXTINF:-1 tvg-name="Receitas Fast" group-title="TV Brasil",Receitas Fast
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1d4c185825d7419cb27d9d97725b050b/playlist.m3u8
-#EXTINF:-1 tvg-name="RECORD NEWS" group-title="TV Brasil",RECORD NEWS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 #EXTINF:-1 tvg-name="Record News" group-title="TV Brasil",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7359
+#EXTINF:-1 tvg-name="RECORD NEWS" group-title="TV Brasil",RECORD NEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 #EXTINF:-1 tvg-name="Red Bull TV" group-title="TV Brasil",Red Bull TV
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/7f1acf7c00bf4d13a0170e0e8c4bcf3b/playlist.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV via Pluto" group-title="TV Brasil",Red Bull TV via Pluto
 https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
 #EXTINF:-1 tvg-name="Rede Vida" group-title="TV Brasil",Rede Vida
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/a7f6ea652c00490db36a50c8a6ef9e7f/playlist.m3u8
+#EXTINF:-1 tvg-name="REVIVA TV" group-title="TV Brasil",REVIVA TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1 tvg-name="Romance Channel" group-title="TV Brasil",Romance Channel
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
 #EXTINF:-1 tvg-name="Rookie Blue" group-title="TV Brasil",Rookie Blue
