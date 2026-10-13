@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-12T20:23:22Z",
+  "generated_at_utc": "2026-10-13T18:26:25Z",
   "sources": [
     {
       "source": "IPTV-ORG Brasil",
@@ -77,8 +77,8 @@
       "error": null
     }
   ],
-  "channels_before_deduplication": 921,
-  "channels_output": 921,
+  "channels_before_deduplication": 1026,
+  "channels_output": 1026,
   "streams_checked": 1283,
-  "streams_online": 921
+  "streams_online": 1026
 }
