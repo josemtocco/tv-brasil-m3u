@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-14T15:54:44Z",
+  "generated_at_utc": "2026-10-15T15:41:43Z",
   "sources": [
     {
       "source": "IPTV-ORG Brasil",
@@ -48,7 +48,7 @@
     },
     {
       "source": "Apsattv Samsung Brasil",
-      "downloaded": 157,
+      "downloaded": 158,
       "error": null
     },
     {
@@ -79,6 +79,6 @@
   ],
   "channels_before_deduplication": 1033,
   "channels_output": 1033,
-  "streams_checked": 1284,
+  "streams_checked": 1285,
   "streams_online": 1033
 }
