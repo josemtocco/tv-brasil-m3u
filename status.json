@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-10-17T14:19:39Z",
+  "generated_at_utc": "2026-10-18T14:44:17Z",
   "sources": [
     {
       "source": "IPTV-ORG Brasil",
-      "downloaded": 397,
+      "downloaded": 396,
       "error": null
     },
     {
       "source": "IPTV-com Brasil",
-      "downloaded": 23,
+      "downloaded": 24,
       "error": null
     },
     {
@@ -33,8 +33,8 @@
     },
     {
       "source": "Apsattv MovieArk Brasil",
-      "downloaded": 168,
-      "error": null
+      "downloaded": 0,
+      "error": "The read operation timed out"
     },
     {
       "source": "Apsattv Rede iTV",
@@ -53,8 +53,8 @@
     },
     {
       "source": "TVBoxLivre",
-      "downloaded": 36,
-      "error": null
+      "downloaded": 0,
+      "error": "The read operation timed out"
     },
     {
       "source": "Apsattv Olhos na TV",
@@ -77,8 +77,8 @@
       "error": null
     }
   ],
-  "channels_before_deduplication": 1017,
-  "channels_output": 1017,
-  "streams_checked": 1286,
-  "streams_online": 1017
+  "channels_before_deduplication": 887,
+  "channels_output": 887,
+  "streams_checked": 1139,
+  "streams_online": 887
 }
