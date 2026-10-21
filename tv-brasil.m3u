@@ -29,12 +29,8 @@ https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
 https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
 #EXTINF:-1 tvg-name="Tokusato" group-title="Animation" tvg-id="Tokusato.us@Brazil" tvg-logo="https://i.imgur.com/tWpjXtl.png",Tokusato
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
-#EXTINF:-1 tvg-name="Comedy Central South Park" group-title="Animation;Comedy" tvg-id="ComedyCentralSouthPark.us@BR" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png",Comedy Central South Park
-https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
 #EXTINF:-1 tvg-name="South Park: Colecao Cartman" group-title="Animation;Comedy" tvg-id="SouthParkColecaoCartman.us@BR" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png",South Park: Colecao Cartman
 https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
-#EXTINF:-1 tvg-name="South Park: Colecao Kenny" group-title="Animation;Comedy" tvg-id="SouthParkColecaoKenny.us@BR" tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png",South Park: Colecao Kenny
-https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
 #EXTINF:-1 tvg-name="South Park: Colecao Kyle" group-title="Animation;Comedy" tvg-id="SouthParkColecaoKyle.us@BR" tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png",South Park: Colecao Kyle
 https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
 #EXTINF:-1 tvg-name="South Park: Colecao Stan" group-title="Animation;Comedy" tvg-id="SouthParkColecaoStan.us@BR" tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png",South Park: Colecao Stan
@@ -226,9 +222,9 @@ https://jmp2.uk/plu-64c92f965580090008084968.m3u8
 #EXTINF:-1 tvg-name="NATURALEZA SALVAJE" group-title="BRASIL" tvg-logo="https://imgur.com/gDPlH5Z.png",NATURALEZA SALVAJE
 https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 #EXTINF:-1 tvg-name="NATURE TIME" group-title="BRASIL" tvg-logo="https://imgur.com/eemAMuo.png",NATURE TIME
-https://amg01515-amg01515c30-lg-br-9221.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-naturetimelatam-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-name="NATURE TIME" group-title="BRASIL" tvg-logo="https://imgur.com/eemAMuo.png",NATURE TIME
 https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
+#EXTINF:-1 tvg-name="NATURE TIME" group-title="BRASIL" tvg-logo="https://imgur.com/eemAMuo.png",NATURE TIME
+https://amg01515-amg01515c30-lg-br-9221.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-naturetimelatam-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-name="NBX TV" group-title="BRASIL" tvg-logo="https://imgur.com/UlcN4JP.png",NBX TV
 https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
 #EXTINF:-1 tvg-name="NEW KFOOD" group-title="BRASIL" tvg-logo="https://imgur.com/TLuN0SW.png",NEW KFOOD
@@ -245,6 +241,8 @@ https://video04.logicahost.com.br/ofatomaringa/ofatomaringa/playlist.m3u8
 https://jmp2.uk/plu-6a5520691a435d3dfcda8340.m3u8
 #EXTINF:-1 tvg-name="O SERTAO E NOTICIA" group-title="BRASIL" tvg-logo="https://imgur.com/kb6l6JB.png",O SERTAO E NOTICIA
 https://srv3.zcast.com.br/comunicacao7839/comunicacao7839/playlist.m3u8
+#EXTINF:-1 tvg-name="OR TV WEB" group-title="BRASIL" tvg-logo="https://imgur.com/CSIlE4S.png",OR TV WEB
+https://tv.ortv.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-name="ORIUNDI TV" group-title="BRASIL" tvg-logo="https://imgur.com/XypKGyv.png",ORIUNDI TV
 https://stmv5.samcast.com.br/oriunditv/oriunditv/playlist.m3u8
 #EXTINF:-1 tvg-name="OS DETETIVES" group-title="BRASIL" tvg-logo="https://imgur.com/bqNcHmx.png",OS DETETIVES
@@ -325,8 +323,6 @@ https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 https://jmp2.uk/plu-69c71615a8ef5d7f33e7322e.m3u8
 #EXTINF:-1 tvg-name="SERTAO TV" group-title="BRASIL" tvg-logo="https://imgur.com/AuhnIFK.png",SERTAO TV
 https://video11.logicahost.com.br/sertaotv/sertaotv/playlist.m3u8
-#EXTINF:-1 tvg-name="SESC TV" group-title="BRASIL" tvg-logo="https://imgur.com/Cd6V3FX.png",SESC TV
-https://cloudflare.cdn.spalla.io/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImY2MTNjYjA3LTI5NGItNDk5OS05ZDFmLWU5ZDNlMjFkOGY3MSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MDAwMjIxMCwibmJmIjoxNzkwMDAyMjEwLCJleHAiOjE3OTI1OTQyMTAsInVyaV9zdWIiOiIvMDE5NWVkZTEtYzIzYy03MDc4LThmMmEtMjVmOTgyYTlmYzkxLyIsInVpZCI6ImY2MTNjYjA3LTI5NGItNDk5OS05ZDFmLWU5ZDNlMjFkOGY3MSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.9qEGajm0FUpUF1qj_Yf-ZYQ_WZYNkNuuU130o79V5Xw&uid=f613cb07-294b-4999-9d1f-e9d3e21d8f71&magica=sim
 #EXTINF:-1 tvg-name="SEVEN TV" group-title="BRASIL" tvg-logo="https://imgur.com/HWH6iUj.png",SEVEN TV
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 #EXTINF:-1 tvg-name="SIC NOTICIAS" group-title="BRASIL" tvg-logo="https://imgur.com/438ZUBp.png",SIC NOTICIAS
@@ -541,6 +537,8 @@ https://video01.logicahost.com.br/poastreaming/poastreaming/playlist.m3u8
 https://stmv4.voxtvhd.com.br/tvpontodeencontro/tvpontodeencontro/playlist.m3u8
 #EXTINF:-1 tvg-name="TV POP BRASIL" group-title="BRASIL" tvg-logo="https://imgur.com/E5QEy0u.png",TV POP BRASIL
 https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/playlist.m3u8
+#EXTINF:-1 tvg-name="TV PRAIA" group-title="BRASIL" tvg-logo="https://imgur.com/BGEwn7z.png",TV PRAIA
+https://video08.logicahost.com.br/tvpraia/tvpraia/playlist.m3u8
 #EXTINF:-1 tvg-name="TV PRAIA GRANDE" group-title="BRASIL" tvg-logo="https://imgur.com/1kCCGkS.png",TV PRAIA GRANDE
 https://video01.brascast.com/christiane1532/christiane1532/playlist.m3u8
 #EXTINF:-1 tvg-name="TV PS" group-title="BRASIL" tvg-logo="https://imgur.com/P4bUsMm.png",TV PS
@@ -551,8 +549,6 @@ https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-name="TV RIO PRETO" group-title="BRASIL" tvg-logo="https://imgur.com/7BOsSkZ.png",TV RIO PRETO
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
-#EXTINF:-1 tvg-name="TV SAO GABRIEL" group-title="BRASIL" tvg-logo="https://imgur.com/D2b7kGp.png",TV SAO GABRIEL
-https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/playlist.m3u8
 #EXTINF:-1 tvg-name="TV SERRANA" group-title="BRASIL" tvg-logo="https://imgur.com/uWA1Xhx.png",TV SERRANA
 https://video10.logicahost.com.br/tvserrana/tvserrana/playlist.m3u8
 #EXTINF:-1 tvg-name="TV SERTAO PB" group-title="BRASIL" tvg-logo="https://imgur.com/eiKijBf.png",TV SERTAO PB
@@ -595,6 +591,8 @@ https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
 #EXTINF:-1 tvg-name="TVCB" group-title="BRASIL" tvg-logo="https://imgur.com/NOEvBhy.png",TVCB
 https://stmv2.samcast.com.br/dermeval8653/dermeval8653/playlist.m3u8
+#EXTINF:-1 tvg-name="TVCI" group-title="BRASIL" tvg-logo="https://imgur.com/FqdQrSs.png",TVCI
+https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
 #EXTINF:-1 tvg-name="TVE MS" group-title="BRASIL" tvg-logo="https://imgur.com/QyAQP9d.png",TVE MS
 https://stream01.digilab.com.br/fertel/live/playlist.m3u8
 #EXTINF:-1 tvg-name="TVE RS" group-title="BRASIL" tvg-logo="https://imgur.com/X6bvC0K.png",TVE RS
@@ -881,6 +879,8 @@ https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Guarapari (720p)" group-title="General" tvg-id="TVGuarapari.br@SD" tvg-logo="https://i.imgur.com/eDNzwK0.png",TV Guarapari (720p)
 https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Litoral RN (720p)" group-title="General" tvg-id="TVLitoralRN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg",TV Litoral RN (720p)
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mais Marica (1080p)" group-title="General" tvg-id="TVMaisMarica.br@SD" tvg-logo="https://i.imgur.com/lgCRX7q.png",TV Mais Marica (1080p)
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Marajoara (720p)" group-title="General" tvg-id="TVMarajoara.br@SD" tvg-logo="https://i.imgur.com/9d9vBN7.png",TV Marajoara (720p)
@@ -913,6 +913,8 @@ https://canalgov-stream.ebc.com.br/GOV-avc1_900000=10002.m3u8
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-name="TV BRASIL INTERNACIONAL" group-title="Governo" tvg-logo="https://imgur.com/9lcmme4.png",TV BRASIL INTERNACIONAL
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-name="TV CAMARA TUPÃ" group-title="Governo" tvg-logo="http://tvcamara.camaratupa.sp.gov.br/Content/css/images/icone-topo.png",TV CAMARA TUPÃ
+http://video.sinoinformatica.com.br:1935/cmtupa-live/sessaoaovivo/chunklist_w1112451954.m3u8
 #EXTINF:-1 tvg-name="TV MANA BRASIL" group-title="Internacional" tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1288/2024/03/LOGO_TV_MANA_BRASIL_V4-1.jpg",TV MANA BRASIL
 https://w1.manasat.com:443/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Avatar: A lenda de Aang" group-title="Kids" tvg-id="AvatarAlendadeAang.us@BR" tvg-logo="https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png",Avatar: A lenda de Aang
@@ -941,11 +943,9 @@ https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
 #EXTINF:-1 tvg-name="Oggy e as Baratas Tontas" group-title="Kids" tvg-id="OggyeasBaratasTontas.us@BR" tvg-logo="https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png",Oggy e as Baratas Tontas
 https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Junior" group-title="Kids" tvg-id="PlutoTVJunior.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",Pluto TV Junior
-https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Kids" group-title="Kids" tvg-id="PlutoTVKids.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",Pluto TV Kids
 https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Kids Club (United States)" group-title="Kids" tvg-id="PlutoTVKidsClub.us@BR" tvg-logo="https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png",Pluto TV Kids Club (United States)
+#EXTINF:-1 tvg-name="Pluto TV Kids Club" group-title="Kids" tvg-id="PlutoTVKidsClub.us@BR" tvg-logo="https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png",Pluto TV Kids Club
 https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
 #EXTINF:-1 tvg-name="Turma da Monica (720p)" group-title="Kids" tvg-id="TurmadaMonica.us@Brazil" tvg-logo="https://i.imgur.com/nrvPPrW.png",Turma da Monica (720p)
 https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
@@ -1195,7 +1195,7 @@ https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
 https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Series Novelescas" group-title="Series" tvg-id="PlutoTVSeriesNovelescas.us@BR" tvg-logo="https://images.pluto.tv/channels/691627e4a29a6123e400b3e0/colorLogoPNG_1764878235665.png",Pluto TV Series Novelescas
 https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Series Sci-Fi (United States)" group-title="Series" tvg-id="PlutoTVSeriesSciFi.us@BR" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png",Pluto TV Series Sci-Fi (United States)
+#EXTINF:-1 tvg-name="Pluto TV Series Sci-Fi" group-title="Series" tvg-id="PlutoTVSeriesSciFi.us@BR" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png",Pluto TV Series Sci-Fi
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 #EXTINF:-1 tvg-name="Star Trek" group-title="Series" tvg-id="StarTrek.us@BR" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png",Star Trek
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
@@ -1819,8 +1819,6 @@ https://amg00740-sofa-amg00740c22-tcl-br-9741.playouts.now.amagi.tv/playlist.m3u
 https://api-ott-adnet-oan.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=14&platform=roku&partner=tcl_roku_syndication&language=any&avod=1&app_name={{appName}}&app_bundle={{appPackage}}&device_width={{playerWidth}}&device_height={{playerHeight}}&ip={{ipAddr}}&tld={{AppDomain}}&content_cat={{AppCat}}&app_version={{AppVersion}}&app_store_url={{AppStoreUrl}}&ua={{UserAgent}}&did={{DID}}&dnt={{DNT}}&coppa={{Coppa}}&us_privacy={{UsPrivacy}}&gdpr={{Gdpr}}&cb={{cb}}&device_make={{DeviceMake}}&device_model={{DeviceModel}}&device_os_version={{operatingSystem}}&livestream={{LiveStream}}&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=tcl_roku_syndication&custom_param_5=roku&GdprConsent={{GdprConsent}}
 #EXTINF:-1 tvg-name="RACER Brasil" group-title="TV Brasil",RACER Brasil
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist/amg16379-sports7fast-mavtvbrasil-tclus/playlist.m3u8
-#EXTINF:-1 tvg-name="RBTI+Sports" group-title="TV Brasil",RBTI+Sports
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e1e97ab632734beea75dacb8b40137a4/playlist.m3u8
 #EXTINF:-1 tvg-name="Receitas Fast" group-title="TV Brasil",Receitas Fast
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1d4c185825d7419cb27d9d97725b050b/playlist.m3u8
 #EXTINF:-1 tvg-name="Record News" group-title="TV Brasil",Record News
