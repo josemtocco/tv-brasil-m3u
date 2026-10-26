@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-10-25T15:02:02Z",
+  "generated_at_utc": "2026-10-26T17:30:50Z",
   "sources": [
     {
       "source": "IPTV-ORG Brasil",
-      "downloaded": 398,
+      "downloaded": 397,
       "error": null
     },
     {
@@ -53,8 +53,8 @@
     },
     {
       "source": "TVBoxLivre",
-      "downloaded": 0,
-      "error": "The read operation timed out"
+      "downloaded": 36,
+      "error": null
     },
     {
       "source": "Apsattv Olhos na TV",
@@ -77,8 +77,8 @@
       "error": null
     }
   ],
-  "channels_before_deduplication": 1008,
-  "channels_output": 1008,
-  "streams_checked": 1278,
-  "streams_online": 1008
+  "channels_before_deduplication": 1016,
+  "channels_output": 1016,
+  "streams_checked": 1288,
+  "streams_online": 1016
 }
