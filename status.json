@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-11-01T17:14:18Z",
+  "generated_at_utc": "2026-11-02T20:52:59Z",
   "sources": [
     {
       "source": "IPTV-ORG Brasil",
-      "downloaded": 398,
+      "downloaded": 397,
       "error": null
     },
     {
       "source": "IPTV-com Brasil",
-      "downloaded": 25,
+      "downloaded": 24,
       "error": null
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "source": "IPTV Novas",
-      "downloaded": 526,
+      "downloaded": 519,
       "error": null
     },
     {
@@ -77,8 +77,8 @@
       "error": null
     }
   ],
-  "channels_before_deduplication": 1006,
-  "channels_output": 1006,
-  "streams_checked": 1296,
-  "streams_online": 1006
+  "channels_before_deduplication": 998,
+  "channels_output": 998,
+  "streams_checked": 1287,
+  "streams_online": 998
 }
