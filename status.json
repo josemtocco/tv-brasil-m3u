@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-11-19T19:34:23Z",
+  "generated_at_utc": "2026-11-20T19:14:34Z",
   "sources": [
     {
       "source": "IPTV-ORG Brasil",
-      "downloaded": 397,
+      "downloaded": 398,
       "error": null
     },
     {
       "source": "IPTV-com Brasil",
-      "downloaded": 24,
+      "downloaded": 25,
       "error": null
     },
     {
@@ -33,23 +33,23 @@
     },
     {
       "source": "Apsattv MovieArk Brasil",
-      "downloaded": 168,
-      "error": null
+      "downloaded": 0,
+      "error": "<urlopen error timed out>"
     },
     {
       "source": "Apsattv Rede iTV",
-      "downloaded": 43,
-      "error": null
+      "downloaded": 0,
+      "error": "<urlopen error timed out>"
     },
     {
       "source": "Apsattv TCL Brasil",
-      "downloaded": 105,
-      "error": null
+      "downloaded": 0,
+      "error": "<urlopen error timed out>"
     },
     {
       "source": "Apsattv Samsung Brasil",
-      "downloaded": 159,
-      "error": null
+      "downloaded": 0,
+      "error": "<urlopen error timed out>"
     },
     {
       "source": "TVBoxLivre",
@@ -58,8 +58,8 @@
     },
     {
       "source": "Apsattv Olhos na TV",
-      "downloaded": 35,
-      "error": null
+      "downloaded": 0,
+      "error": "<urlopen error timed out>"
     },
     {
       "source": "IPTV Novas",
@@ -77,8 +77,8 @@
       "error": null
     }
   ],
-  "channels_before_deduplication": 986,
-  "channels_output": 986,
-  "streams_checked": 1291,
-  "streams_online": 986
+  "channels_before_deduplication": 697,
+  "channels_output": 697,
+  "streams_checked": 924,
+  "streams_online": 697
 }
